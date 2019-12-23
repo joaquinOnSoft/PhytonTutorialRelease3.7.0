@@ -1,7 +1,0 @@
----
-title: "Untitled"
-author: jgarzonpena
-date: 22/12/2019
-output: rmarkdown::html_vignette
----
-
